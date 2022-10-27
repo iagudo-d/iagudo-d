@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <div align="center">
 	<table>
 		<tr>
-			<th width="200px" align="center">NUM</td>
-			<th width="200px" align="center">PROYECYO</td>
-			<th width="200px" align="center">INICIO</td>
-			<th width="200px" align="center">FINAL</td>
-			<th width="200px" align="center">NOTA</td>
+			<th width="200px" align="center">ORD</td>
+			<th width="200px" align="center">PROJECT</td>
+			<th width="200px" align="center">START</td>
+			<th width="200px" align="center">END</td>
+			<th width="200px" align="center">STATUS</td>
 		</tr>
 		<tr>
 			<td align="center">1</td>
