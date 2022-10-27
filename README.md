@@ -25,24 +25,24 @@ Here are some ideas to get you started:
 -------------------------------------------------------------
 
 <div align="center">
-    <table>
-	      <tr>
-		        <th width="200px" align="center">NUM</td>
-		        <th width="200px" align="center">PROYECYO</td>
-		        <th width="200px" align="center">INICIO</td>
-		        <th width="200px" align="center">FINAL</td>
-		        <th width="200px" align="center">NOTA</td>
-	      </tr>
-        <tr>
-		        <td align="center">1</td>
-		        <td align="center">libft</td>
-		        <td align="center">12-09-2022</td>
-		        <td align="center">In progress</td>
+	<table>
+		<tr>
+			<th width="200px" align="center">NUM</td>
+			<th width="200px" align="center">PROYECYO</td>
+			<th width="200px" align="center">INICIO</td>
+			<th width="200px" align="center">FINAL</td>
+			<th width="200px" align="center">NOTA</td>
+		</tr>
+		<tr>
+			<td align="center">1</td>
+			<td align="center">libft</td>
+			<td align="center">12-09-2022</td>
+			<td align="center">In progress</td>
             <td align="center" vertical-align="top" height="60px" >
                 <a href="https://github.com/JaeSeoKim/badge42">
                     <img src="https://badge42.vercel.app/api/v2/cl9qde7tl00400fmkcuj8itf7/project/2788703" alt="iagudo-d's 42 Libft Score" />
                 </a>
             </td>
-	      </tr>
+	    </tr>
     </table>
 </div>
