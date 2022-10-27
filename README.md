@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <h2>YOU´R WELCOME TO MY 42 CURSUS REPO</h2>
-    <a href="https://github.com/JaeSeoKim/badge42">
-        <img src="https://badge42.vercel.app/api/v2/cl9qde7tl00400fmkcuj8itf7/stats?cursusId=21&coalitionId=64" alt="iagudo-d's 42 stats" />
-    </a>
+    	<h2>YOU´R WELCOME TO MY 42 CURSUS REPO</h2>
+    	<a href="https://github.com/JaeSeoKim/badge42">
+    		<img src="https://badge42.vercel.app/api/v2/cl9rdmy0a01200fmjpfovzlpl/stats?cursusId=21&coalitionId=64" alt="iagudo-d's 42 stats" />
+	</a>
 </div>
 
 -------------------------------------------------------------
@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 			<td align="center">libft</td>
 			<td align="center">12-09-2022</td>
 			<td align="center">In progress</td>
-            <td align="center" vertical-align="top" height="60px" >
-                <a href="https://github.com/JaeSeoKim/badge42">
-                    <img src="https://badge42.vercel.app/api/v2/cl9qde7tl00400fmkcuj8itf7/project/2788703" alt="iagudo-d's 42 Libft Score" />
-                </a>
-            </td>
-	    </tr>
-    </table>
+			<td align="center" vertical-align="top" height="60px" >
+	    			<a href="https://github.com/JaeSeoKim/badge42">
+					<img src="https://badge42.vercel.app/api/v2/cl9rdmy0a01200fmjpfovzlpl/project/2788703" alt="iagudo-d's 42 Libft Score" />
+				</a>
+            		</td>
+		</tr>
+	</table>
 </div>
