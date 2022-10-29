@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 				<a href="https://github.com/iagudo-d/42_libft">libft</a>
 			</td>
 			<td align="center">12-09-2022</td>
-			<td align="center">In progress</td>
+			<td align="center">29-10-2022</td>
 			<td align="center" vertical-align="top" height="60px" >
 	    			<a href="https://github.com/JaeSeoKim/badge42">
 					<img src="https://badge42.vercel.app/api/v2/cl9rdmy0a01200fmjpfovzlpl/project/2788703" alt="iagudo-d's 42 Libft Score" />
