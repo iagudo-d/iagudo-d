@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 		<tr>
 			<td align="center">1</td>
 			<td align="center">
-				<a href="https://github.com/iagudo-d/42_libft">libft</a>
+				<a href="https://github.com/iagudo-d/01_libft">libft</a>
 			</td>
 			<td align="center">12-09-2022</td>
 			<td align="center">29-10-2022</td>
