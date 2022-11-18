@@ -55,7 +55,8 @@ Here are some ideas to get you started:
 			<td align="center">18-11-2022</td>
 			<td align="center" vertical-align="top" height="60px" >
 				<a href="https://github.com/JaeSeoKim/badge42">
-					<img src="https://badge42.vercel.app/api/v2/cl9rdmy0a01200fmjpfovzlpl/project/2873905" alt="iagudo-d's 42 Born2beroot Score" />					</a>
+					<img src="https://badge42.vercel.app/api/v2/cl9rdmy0a01200fmjpfovzlpl/project/2873905" alt="iagudo-d's 42 Born2beroot Score" />
+				</a>
             		</td>
 		</tr>
 		<tr>
@@ -67,7 +68,8 @@ Here are some ideas to get you started:
 			<td align="center">In progress</td>
 			<td align="center" vertical-align="top" height="60px" >
 				<a href="https://github.com/JaeSeoKim/badge42">
-					<img src="https://badge42.vercel.app/api/v2/cl9rdmy0a01200fmjpfovzlpl/project/2883987" alt="iagudo-d's 42 get_next_line Score" />				</a>
+					<img src="https://badge42.vercel.app/api/v2/cl9rdmy0a01200fmjpfovzlpl/project/2883987" alt="iagudo-d's 42 get_next_line Score" />
+				</a>
             		</td>
 		</tr>
 	</table>
