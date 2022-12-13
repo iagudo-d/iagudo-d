@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 		<tr>
 			<td align="center">3</td>
 			<td align="center">
-				<a href="">get-next-line</a>
+				<a href="https://github.com/iagudo-d/03_get_next_line">get-next-line</a>
 			</td>
 			<td align="center">18-11-2022</td>
 			<td align="center">In progress</td>
